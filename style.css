@@ -93,7 +93,7 @@ header{
     --border-color: var(--blue);
     --header: aquamarine;
     --col1: var(--gray1);
-    --col2: var(--gray3);
+    --col2: var(--yellow);
 }
 
 .dark{
@@ -102,6 +102,6 @@ header{
     --text: var(--gray0);
     --border-color: var(--purple);
     --header: var(--yellow);
-    --col1: var(--gray3);
-    --col2: var(--gray6);
+    --col1: var(--gray6);
+    --col2: var(--purple);
 }
